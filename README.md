@@ -13,4 +13,5 @@
 * Fork and clone this repository
 * Run `npm install` in your terminal
 * Run `npm start`
+* Follow the link to devtools
 * In new window click 'Run'

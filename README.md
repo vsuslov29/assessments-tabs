@@ -1,7 +1,7 @@
 # Assessments Tabs
 
 ## Technologies used
-  React Native, Redux, Typescript, 
+  React Native, Redux, Typescript
 
 ## Local development
 

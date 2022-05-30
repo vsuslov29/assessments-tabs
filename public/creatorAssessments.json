@@ -1,0 +1,482 @@
+[
+  {
+      "acId": 398,
+      "copId": "HELP",
+      "status": {
+          "statusId": 6,
+          "modifyRuleId": 5,
+          "statusName": "Archive",
+          "enabledDef": "y",
+          "sendEmailForACSE": true,
+          "statusIdStr": "6",
+          "possibleToRequery": false
+      },
+      "creationData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2454893,
+          "display": "02-Mar-2009"
+      },
+      "modifiedDate": {
+          "date": 2455798,
+          "display": "24-Aug-2011"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "jmoffa",
+          "displayName": "Moffa, Jeff(jmoffa)",
+          "type": 0
+      },
+      "descriptor": " Test",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "SubProject A"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.SubProject A",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/398",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/398/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  },
+  {
+      "acId": 405,
+      "copId": "TEST",
+      "status": {
+          "statusId": 3,
+          "modifyRuleId": 2,
+          "statusName": "Evaluation Ready",
+          "enabledDef": "y",
+          "sendEmailForACSE": true,
+          "statusIdStr": "3",
+          "possibleToRequery": true
+      },
+      "creationData": {
+          "criteria": "(type=Definition)",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "(type=Definition)",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2454929,
+          "display": "07-Apr-2009"
+      },
+      "modifiedDate": {
+          "date": 2454929,
+          "display": "07-Apr-2009"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "descriptor": " ",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "SubProject A"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.SubProject A",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/405",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/405/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  },
+  {
+      "acId": 430,
+      "copId": "TEST",
+      "status": {
+          "statusId": 2,
+          "modifyRuleId": 1,
+          "statusName": "Build In Process",
+          "enabledDef": "y",
+          "sendEmailForACSE": false,
+          "statusIdStr": "2",
+          "possibleToRequery": true
+      },
+      "creationData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2454951,
+          "display": "29-Apr-2009"
+      },
+      "modifiedDate": {
+          "date": 2454951,
+          "display": "29-Apr-2009"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "descriptor": " ",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "SubProject A"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.SubProject A",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/430",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/430/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  },
+  {
+      "acId": 491,
+      "copId": "TEST",
+      "status": {
+          "statusId": 2,
+          "modifyRuleId": 1,
+          "statusName": "Build In Process",
+          "enabledDef": "y",
+          "sendEmailForACSE": false,
+          "statusIdStr": "2",
+          "possibleToRequery": true
+      },
+      "creationData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2455009,
+          "display": "26-Jun-2009"
+      },
+      "modifiedDate": {
+          "date": 2455009,
+          "display": "26-Jun-2009"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "descriptor": " ",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "SubProject A"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.SubProject A",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/491",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/491/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  },
+  {
+      "acId": 492,
+      "copId": "FPNL",
+      "status": {
+          "statusId": 2,
+          "modifyRuleId": 1,
+          "statusName": "Build In Process",
+          "enabledDef": "y",
+          "sendEmailForACSE": false,
+          "statusIdStr": "2",
+          "possibleToRequery": true
+      },
+      "creationData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2455013,
+          "display": "30-Jun-2009"
+      },
+      "modifiedDate": {
+          "date": 2455013,
+          "display": "30-Jun-2009"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "descriptor": " ",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "Instrument Cluster"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.Instrument Cluster",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/492",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/492/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  },
+  {
+      "acId": 493,
+      "copId": "TEST",
+      "status": {
+          "statusId": 2,
+          "modifyRuleId": 1,
+          "statusName": "Build In Process",
+          "enabledDef": "y",
+          "sendEmailForACSE": false,
+          "statusIdStr": "2",
+          "possibleToRequery": true
+      },
+      "creationData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "requeryData": {
+          "criteria": "",
+          "source": "BY_FILTER"
+      },
+      "openDate": {
+          "date": 2455013,
+          "display": "30-Jun-2009"
+      },
+      "modifiedDate": {
+          "date": 2455013,
+          "display": "30-Jun-2009"
+      },
+      "closedDate": {
+          "date": 0,
+          "display": null
+      },
+      "author": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "lastModified": {
+          "id": "venkata",
+          "displayName": "Illenko, Kostyantyn(venkata)",
+          "type": 0
+      },
+      "descriptor": " ",
+      "project": {
+          "id": 11,
+          "name": "Project A"
+      },
+      "subProject": {
+          "id": 0,
+          "name": "SubProject A"
+      },
+      "signOffText": "",
+      "dotPath": "Project A.SubProject A",
+      "lineItems": null,
+      "coCreators": null,
+      "evaluators": null,
+      "chapters": null,
+      "possibleStatuses": null,
+      "possibleConfStates": null,
+      "links": [
+          {
+              "rel": "self",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/493",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          },
+          {
+              "rel": "lineitems",
+              "href": "http://localhost:8080/auros-trunk/api/assessment/493/lineitems",
+              "hreflang": null,
+              "media": null,
+              "title": null,
+              "type": null,
+              "deprecation": null
+          }
+      ]
+  }
+]

@@ -33,3 +33,36 @@ export type RootTabScreenProps<Screen extends keyof RootTabParamList> = Composit
   BottomTabScreenProps<RootTabParamList, Screen>,
   NativeStackScreenProps<RootStackParamList>
 >;
+
+export type RootState = {
+  assessments: {
+    evaluatorAssessments: Assessment[],
+    creatorAssessments: Assessment[],
+  }
+}
+
+export type Assessment = {
+  acId: number,
+  copId: string,
+  project: {
+    name: string,
+  },
+
+  subProject: {
+    name: string,
+  }
+}
+
+export type AssessmentsByProjects = {
+  [key: string]: Assessment[],
+}
+
+export type PreparedAssessment = {
+  title: string,
+  body: Assessment[],
+}
+
+export type ProjectAssessments = [
+  string,
+  Assessment[],
+]

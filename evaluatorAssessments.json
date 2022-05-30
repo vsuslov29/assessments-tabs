@@ -1,0 +1,1042 @@
+[	
+  {
+        "acId": 5151,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5151",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5151/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5152,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5152",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5152/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5153,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 2,
+            "modifyRuleId": 1,
+            "statusName": "Build In Process",
+            "enabledDef": "y",
+            "sendEmailForACSE": false,
+            "statusIdStr": "2",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5153",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5153/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5154,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 2,
+            "modifyRuleId": 1,
+            "statusName": "Build In Process",
+            "enabledDef": "y",
+            "sendEmailForACSE": false,
+            "statusIdStr": "2",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458369,
+            "display": "07-Sep-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5154",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5154/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5155,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 144,
+            "name": "876"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "Default Type.eeeee, qqqq, xvxcv",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5155",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5155/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5156,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 144,
+            "name": "876"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "Default Type.eeeee, qqqq, xvxcv",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5156",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5156/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5157,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2458348,
+            "display": "17-Aug-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 144,
+            "name": "876"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "Default Type.eeeee, qqqq, xvxcv",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5157",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5157/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5158,
+        "copId": "EVAGGGG",
+        "status": {
+            "statusId": 5,
+            "modifyRuleId": 4,
+            "statusName": "Assessment Complete",
+            "enabledDef": "y",
+            "sendEmailForACSE": true,
+            "statusIdStr": "5",
+            "possibleToRequery": false
+        },
+        "creationData": {
+            "criteria": "Re-Query Unavailable",
+            "source": "NA"
+        },
+        "requeryData": {
+            "criteria": "Re-Query Unavailable",
+            "source": "NA"
+        },
+        "openDate": {
+            "date": 2458358,
+            "display": "27-Aug-2018"
+        },
+        "modifiedDate": {
+            "date": 2459088,
+            "display": "26-Aug-2020"
+        },
+        "closedDate": {
+            "date": 2459088,
+            "display": "26-Aug-2020"
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": " ",
+        "project": {
+            "id": 162,
+            "name": "2008 C170"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "2008 C170.B1A.venkata",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5158",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5158/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5160,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "modifiedDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5160",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5160/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5161,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "modifiedDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5161",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5161/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5162,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 1,
+            "modifyRuleId": 0,
+            "statusName": "Pre-Build",
+            "enabledDef": "n",
+            "sendEmailForACSE": true,
+            "statusIdStr": "1",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Replicated From <a class='ac_link' id='5018' href=\"http://localhost:8080/auros-trunk/jsp/clGridView.jsp?idx=5018\" target=\"_blank\">EVAG-CK5018</a>",
+            "source": "REPLICATE"
+        },
+        "requeryData": {
+            "criteria": "",
+            "source": "CUSTOM_SELECTION"
+        },
+        "openDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "modifiedDate": {
+            "date": 2458372,
+            "display": "10-Sep-2018"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "vitaliy",
+            "displayName": "gonchar, vitaliy(vitaliy)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 142,
+            "name": "Auros2"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "B1A"
+        },
+        "signOffText": "",
+        "dotPath": "TYPE11",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5162",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5162/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5166,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 2,
+            "modifyRuleId": 1,
+            "statusName": "Build In Process",
+            "enabledDef": "y",
+            "sendEmailForACSE": false,
+            "statusIdStr": "2",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "Re-Query Unavailable",
+            "source": "NA"
+        },
+        "requeryData": {
+            "criteria": "Re-Query Unavailable",
+            "source": "NA"
+        },
+        "openDate": {
+            "date": 2458550,
+            "display": "07-Mar-2019"
+        },
+        "modifiedDate": {
+            "date": 2458561,
+            "display": "18-Mar-2019"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 144,
+            "name": "876"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "SubProject A"
+        },
+        "signOffText": "",
+        "dotPath": "Default Type.eeeee, qqqq, xvxcv",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5166",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5166/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    },
+    {
+        "acId": 5167,
+        "copId": "EVAG",
+        "status": {
+            "statusId": 3,
+            "modifyRuleId": 2,
+            "statusName": "Evaluation Ready",
+            "enabledDef": "y",
+            "sendEmailForACSE": true,
+            "statusIdStr": "3",
+            "possibleToRequery": true
+        },
+        "creationData": {
+            "criteria": "S898",
+            "source": "SET"
+        },
+        "requeryData": {
+            "criteria": "(Global fixed - huixed!338=(eee))",
+            "source": "BY_FILTER"
+        },
+        "openDate": {
+            "date": 2458557,
+            "display": "14-Mar-2019"
+        },
+        "modifiedDate": {
+            "date": 2458606,
+            "display": "02-May-2019"
+        },
+        "closedDate": {
+            "date": 0,
+            "display": null
+        },
+        "author": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "lastModified": {
+            "id": "venkata",
+            "displayName": "Illenko, Kostyantyn(venkata)",
+            "type": 0
+        },
+        "descriptor": "",
+        "project": {
+            "id": 106,
+            "name": "Auro Demo"
+        },
+        "subProject": {
+            "id": 0,
+            "name": "SubProject A"
+        },
+        "signOffText": "",
+        "dotPath": "Default Type",
+        "lineItems": null,
+        "coCreators": null,
+        "evaluators": null,
+        "chapters": null,
+        "possibleStatuses": null,
+        "possibleConfStates": null,
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5167",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            },
+            {
+                "rel": "lineitems",
+                "href": "http://localhost:8080/auros-trunk/api/assessment/5167/lineitems",
+                "hreflang": null,
+                "media": null,
+                "title": null,
+                "type": null,
+                "deprecation": null
+            }
+        ]
+    }
+]

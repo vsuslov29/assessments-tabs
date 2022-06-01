@@ -30,8 +30,11 @@
     Now check that your device is properly connecting to ADB, the Android Debug Bridge, by running adb devices.
     
     `$ adb devices
+    
       List of devices attached
+      
       emulator-5554 offline   # Google emulator
+      
       14ed2fcc device         # Physical device`
       
      Seeing device in the right column means the device is connected. You must have only one device connected at a time.

@@ -1,7 +1,7 @@
 # Assessments Tabs
 
 ## Technologies used
-  React Native, Redux, Typescrip
+  React Native, Redux, Typescript
   
 ## Description
   Render tabs with dropdowns from `json` data

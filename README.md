@@ -16,7 +16,7 @@
 * Fork and clone this repository
 * Run `npm install` in your terminal
 
-### Running on desktop device
+### Running on Desktop device
 * Run `npm start`
 * Follow the link to devtools
 * In new window click 'Run'

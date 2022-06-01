@@ -30,7 +30,6 @@
     Now check that your device is properly connecting to ADB, the Android Debug Bridge, by running adb devices.
     
     `$ adb devices
-    
       List of devices attached
       
       emulator-5554 offline   # Google emulator

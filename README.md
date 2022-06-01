@@ -29,7 +29,8 @@
     Let's now set up an Android device to run our React Native projects. Go ahead and plug in your device via USB to your development machine.
     Now check that your device is properly connecting to ADB, the Android Debug Bridge, by running adb devices.
     
-    `$ adb devices
+    `adb devices
+    
       List of devices attached
       
       emulator-5554 offline   # Google emulator
